@@ -48,7 +48,7 @@
         href="https://docs.google.com/document/d/1Sbs515iTLo5PZHlzADYajagYliFWSaWuGYZVU1Ljczo/edit?usp=sharing"
         >개발문서</a
       >
-      (Notion 능력자 등장시 바로 Notion으로 변경)
+      (Notion 능력자 등장시 바로 변경)
     </td>
   </tr>
 </table>
