@@ -23,25 +23,20 @@
 
 <h1>기술 스택</h1>
 
-<h2>⚛️ 프론트엔드</h2>
-<ul>
-  <li>React Native 0.69</li>
-  <li>TypeScript</li>
-  <li>Redux Toolkit</li>
-  <li>React Router Native</li>
-  <li>Styled Components <s>(숨이 막혀오면 Tailwind CSS....)</s></li>
-  <li>yarn(npm X)</li>
-</ul>
+## ⚛️ 프론트엔드
 
-<h2>🐬 백엔드</h2>
-<ul>
-  <li>Node.js</li>
-  <li>MariaDB</li>
-  <li>SQLite</li>
-</ul>
+- React Native 0.69
+- TypeScript
+- Redux Toolkit
+- React Router Native
+- Styled Components <s>(숨이 막혀오면 Tailwind CSS....)</s>
+- yarn(npm X)
 
-1. hi
-* hi
+## 🐬 백엔드
+
+- Node.js
+- MariaDB
+- SQLite
 
 <h1>협업 툴</h1>
 <table>
