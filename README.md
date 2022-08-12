@@ -39,7 +39,8 @@
   <li>MariaDB</li>
   <li>SQLite</li>
 </ul>
-> 1. hi
+
+1. hi
 
 <h1>협업 툴</h1>
 <table>
