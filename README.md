@@ -1,5 +1,11 @@
-<h1>WION</h1>
+<img
+  src="https://github.com/danielyj147/wion/blob/main/wion_logo.png"
+  alt="Italian Trulli"
+  width="200"
+  height="200"
+/>
 
+<h1>팀 소개</h1>
 <table>
   <tr>
     <td>PM</td>
