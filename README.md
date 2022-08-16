@@ -1,5 +1,5 @@
 <img
-  src="https://github.com/danielyj147/wion/blob/main/wion_logo.png"
+  src="https://github.com/danielyj147/wion/blob/da6b833e29df759dde5f7b2bea97ac7274651e9d/assets/images/wion_logo.png"
   alt="Italian Trulli"
   width="200"
   height="200"
@@ -42,7 +42,7 @@
 ### 지원자격
 
 - React를 한번은 다뤄봤다
-- 위의 기술들중 3개 이상은 개념적으로 알고있다 
+- 위의 기술들중 3개 이상은 개념적으로 알고있다
 - 다른 언어/프레임워크를 다루지만 같이 배워보고싶다
 
 </br>
