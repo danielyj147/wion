@@ -8,20 +8,20 @@
 <h1>팀 소개</h1>
 <table>
   <tr>
-    <td>PM</td>
+    <td>PM(프로젝트 관리자)</td>
     <td>박서윤</td>
   </tr>
   <tr>
-    <td>Design</td>
-    <td>방병욱</td>
+    <td>Design(디자인팀)</td>
+    <td>방병욱, 김혜민, 옥예은, 이규리, 이세원, 최윤서</td>
   </tr>
   <tr>
-    <td>Dev</td>
-    <td>최현묵, 정예준</td>
+    <td>Dev(개발팀)</td>
+    <td>최현묵, 정예준, 전성민</td>
   </tr>
   <tr>
-    <td>Operations</td>
-    <td>박소현</td>
+    <td>Operations(운영팀)</td>
+    <td>김소영, 박소현, 김성진, 한지혜, 이관주</td>
   </tr>
 </table>
 
