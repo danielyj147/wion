@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td>PM</td>
-    <td>박서윤, 박소현</td>
+    <td>박서윤</td>
   </tr>
   <tr>
     <td>Design</td>
@@ -19,7 +19,14 @@
     <td>Dev</td>
     <td>최현묵, 정예준</td>
   </tr>
+  <tr>
+    <td>Operations</td>
+    <td>박소현</td>
+  </tr>
 </table>
+
+</br>
+</br>
 
 <h1>기술 스택</h1>
 
@@ -32,11 +39,27 @@
 - Styled Components <s>(숨이 막혀오면 Tailwind CSS....)</s>
 - yarn(npm X)
 
+### 지원자격
+
+- 한번은 다뤄봤다 
+- 위의 기술들중 3개 이상은 개념적으로 알고있다 
+- 다른 언어/프레임워크를 다루지만 같이 배워보고싶다
+
+</br>
+
 ## 🐬 백엔드
 
-- Node.js
-- MariaDB
-- SQLite
+- Nest.js
+- MongoDB(mongoose)
+
+### 지원자격
+
+- Express, Nest.js 경험이 있으신 분
+- 백엔드 개발 경험이 있으신 분(다른 프레임워크 경험이 있으시다면 금방 배우실 겁니다!)
+- 개발을 1도 모르지만, 이번 기회에 같이 배우면서 작업하실 분(대환영🙇‍♂🙇‍♂🙇‍♂)
+
+</br>
+</br>
 
 <h1>협업 툴</h1>
 <table>
@@ -56,5 +79,8 @@
     </td>
   </tr>
 </table>
+
+</br>
+</br>
 
 <h1>시스템 구조도</h1>
